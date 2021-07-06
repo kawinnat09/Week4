@@ -1,11 +1,11 @@
 body {
-    background-color: blue;
+    background-color: #40ddfc;
 }
 h1{
     color: white;
 }
 .text {
-    color: chartreuse;
+    color: red;
     font-weight: bold;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 40px;
