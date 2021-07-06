@@ -1,0 +1,32 @@
+.blue-paragraph24 {
+    color: blue;
+    background-color: rgb(198, 230, 20);
+    font-size: 30px;
+}
+.black-paragraph24 {
+    color: gold;
+    background-color: black;
+    font-size: 30px;
+}
+* {
+    color: rgb(0, 0, 0);
+}
+.border-text {
+    border:5px red;
+}
+span{
+    font-weight: bold;
+    color: blue;
+}
+.big-font{
+    font-size: large;
+}
+.green-bg{
+    background-color: green;
+}
+.white-text {
+    color: honeydew;
+}
+.bold-text{
+    font-weight: bold;
+}
